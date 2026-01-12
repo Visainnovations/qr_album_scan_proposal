@@ -35,7 +35,7 @@
 
 | Project | QR Album Scan |
 |---------|---------------|
-| **Client** | [Client Name] |
+| **Client** | P. Manikandam |
 | **Duration** | 45 Days |
 | **Team Size** | 3 Members |
 | **Total Cost** | ₹46,000 |
@@ -311,9 +311,8 @@ Week 6  |████████████████| Testing + Deployment 
 **Deliverables:**
 - Tested & bug-free application
 - Deployed on live server
-- Domain & SSL configured
+- SSL configured
 - Documentation & training completed
-- Source code handover
 
 ### 8.3 Payment Methods
 
@@ -331,12 +330,10 @@ Week 6  |████████████████| Testing + Deployment 
 
 | # | Deliverable | Format |
 |---|-------------|--------|
-| 1 | Complete source code | GitHub Repository |
-| 2 | API documentation | Markdown / Postman |
-| 3 | User manual | PDF |
-| 4 | Deployment guide | PDF |
-| 5 | Admin credentials | Secure document |
-| 6 | Server access | SSH / cPanel credentials |
+| 1 | Live web application | Deployed on server |
+| 2 | User manual | PDF |
+| 3 | Admin credentials | Secure document |
+| 4 | Application access | URL & login details |
 
 ### 9.2 Post-Delivery Support
 
@@ -359,9 +356,11 @@ Week 6  |████████████████| Testing + Deployment 
 
 ### 10.2 Intellectual Property
 
-1. Source code ownership transfers to client upon **full payment**.
-2. Visainnovations retains right to showcase the project in portfolio.
-3. Third-party libraries used are subject to their respective licenses.
+1. Source code remains the property of **Visainnovations**.
+2. Client receives full rights to **use the deployed web application**.
+3. Client owns all uploaded content (images, albums, data).
+4. Visainnovations retains right to showcase the project in portfolio.
+5. Third-party libraries used are subject to their respective licenses.
 
 ### 10.3 Confidentiality
 
@@ -369,16 +368,7 @@ Week 6  |████████████████| Testing + Deployment 
 2. Client data will not be shared with third parties.
 3. NDA can be signed upon request.
 
-### 10.4 Cancellation Policy
-
-| Stage | Refund |
-|-------|--------|
-| Before development starts | 90% refund |
-| During Phase 1 | 50% refund |
-| During Phase 2 | 25% refund |
-| After Phase 2 | No refund |
-
-### 10.5 Warranty
+### 10.4 Warranty
 
 1. **15 days** free bug-fix support after deployment.
 2. Bugs due to client modifications are not covered.
